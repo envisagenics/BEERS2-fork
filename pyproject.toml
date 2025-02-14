@@ -11,7 +11,7 @@ requires = [
 [project]
 name = "BEERS2"
 version = "2.0"
-requires-python=">=3.11"
+requires-python=">=3.10,<3.12"
 dependencies = [
     # "boto3",
     # "cloudpathlib",
